@@ -1,0 +1,5 @@
+.env
+node_modules/
+ghost_fund.json
+
+*.log

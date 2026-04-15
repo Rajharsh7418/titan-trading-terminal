@@ -1,0 +1,21 @@
+{
+  "name": "trading-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.13.6",
+    "ccxt": "^4.5.45",
+    "dotenv": "^17.3.1",
+    "node-telegram-bot-api": "^0.67.0",
+    "technicalindicators": "^3.1.0"
+  }
+}
